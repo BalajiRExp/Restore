@@ -10,7 +10,7 @@ namespace API
 {
     public class Program
     {
-        public static void Main(string[] args)
+        public static void Main(string[] args)//Add beark
         {
             //CreateHostBuilder(args).Build().Run();
             var host= CreateHostBuilder(args).Build();
