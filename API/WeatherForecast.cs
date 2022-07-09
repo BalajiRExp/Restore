@@ -3,7 +3,7 @@ namespace API
 {
     public class WeatherForecast
 {
-    public DateTime Date { get; set; }
+    public DateTime Date { get; set; }//just check
 
     public int TemperatureC { get; set; }
 
